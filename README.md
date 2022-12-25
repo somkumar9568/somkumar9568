@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @somkumar9568
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...JS & React
 - 🌱 I’m currently learning ... React 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...kumarsom699@gmail.com
 
 <!---
