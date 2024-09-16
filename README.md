@@ -24,8 +24,6 @@
 
 Thanks for checking out my profile.
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RitikaBansal312.RitikaBansal312) -->
-<!-- ![Visitor Count](https://profile-counter.glitch.me/RitikaBansal312/count.svg) -->
 
 <!--
 **somkumar9568/somkumar9568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +36,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
