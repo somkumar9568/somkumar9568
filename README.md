@@ -5,6 +5,7 @@
 <h4 align="left">I’m currently working on React Js And Node Js</h4>
 <h4 align="left">Connect with me 💬</h4>
 <a href="https://www.linkedin.com/in/som-kumar-3603b6206/"><img src="https://img.icons8.com/color/28/000000/linkedin.png"></a>
+<a href="https://www.indeed.com/in/https://profile.indeed.com/"><img src="https://img.icons8.com/color/28/000000/indeed.png"></a>
 
 #### Technologies and Tools
 
