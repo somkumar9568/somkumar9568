@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/reactjs-%23039BE5.svg?&style=for-the-badge&logo=react&logoColor=skyblue"/>
 <img src="https://img.shields.io/badge/nodejs-%23039BE5.svg?&style=for-the-badge&logo=nodejs&logoColor=skyblue"/>
 <img src="https://img.shields.io/badge/PHP-%23ED8B00.svg?&style=for-the-badge&logo=php&logoColor=green"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 <img src="https://img.shields.io/badge/git%20-%23FF26BE.svg?&style=for-the-badge&logo=git&logoColor=white"/>
